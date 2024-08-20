@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniesky&label=Profile%20views&color=0e75b6&style=flat" alt="daniesky" /> </p>
 
-- 🌱 I’m currently learning **C++, Java, Python, Vuejs and more**
+- 🌱 I’m currently learning **C++, C, Rust and more**
 
 - 📫 How to reach me **danielskymoen02@gmail.com**
 
